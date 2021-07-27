@@ -14,6 +14,8 @@
 	border: none;
 }
 #Web_1920__1 {
+		
+	top: 286px;
 	position: absolute;
 	width: 1920px;
 	height: 1080px;
@@ -25,6 +27,8 @@
 	--web-enable-deep-linking: true;
 }
 #Github_TrinityU {
+	margin-left: auto;
+	margin-right: auto;
 	overflow: visible;
 	width: 167px;
 	white-space: nowrap;
