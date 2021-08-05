@@ -1,6 +1,6 @@
-#GITHUB.COM/TRINITYU
+# WARNING
 
-##WARNING
+## GITHUB.COM/TRINITYU
 
 If you're a student I wouldn't reccomend viewing this
 It might be academic dishonestly.
@@ -14,4 +14,3 @@ if you're a professor and have any issues with this org please don't hesitate to
 -hugh
 
 hcolema1@trinity.edu
-
