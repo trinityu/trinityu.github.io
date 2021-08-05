@@ -2,12 +2,12 @@
 
 ## GITHUB.COM/TRINITYU
 
-If you're a student I wouldn't reccomend viewing this
-It might be academic dishonestly.
+If you're a student **do not view my code.**
+It might be academic dishonesty.
 
-If you're going to Trinity University and trying to copy my work, please don't.
+If you're attending Trinity University and trying to copy my work, **don't**.
 
-I just use this to store my code for my classes.
+This org is used to keep projects organized between different devices safely in the cloud.
 
 if you're a professor and have any issues with this org please don't hesitate to contact me.
 
